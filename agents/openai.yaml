@@ -1,0 +1,4 @@
+interface:
+  display_name: "从收集数据到生成可视化报告"
+  short_description: "跨产品VOC采集、标签校准、证据打标、统计图表、完整报告与Listing转化工作流"
+  default_prompt: "使用 $voc-data-to-report 为这个产品从零采集VOC数据，构建并校准标签，再生成可追溯的可视化报告。"
